@@ -1,5 +1,5 @@
 # Security-Privacy-Attack-Machine-Learning
-This is a repository to manage papers/basics.
+This is a repository to manage discussions/presentations/papers/basics.
 We recommend you to clone our project into sublime. For the first time, use ```git clone git@github.com:YuZhengCUHK/Security-Privacy-Attack-Machine-Learning.git``` to clone this project on your computer. 
 
 Please note: you need to update your local project ```git pull``` from github before modify it. Before push your modification to github,```git push ...```, please ensure everything is correct.
