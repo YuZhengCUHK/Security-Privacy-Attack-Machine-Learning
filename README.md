@@ -23,6 +23,6 @@ Set tex root ```%!TEX root = main.tex```
 
 Add your presentation record to main.tex ```\input{filename}```
 
-Before push the modification, please delete the trivial files generated in "4-Presentation Summary" except .tex, .pdf 
+Before push the modification, please delete the trivial files generated in "4-Presentation Summary" except ```.tex, .pdf``` 
 
 If others have comments or questions, one can use ```\todo{xx: xxx}``` (or type a new paragraph xx: xxx) to give marks. Please tell others who you are before giving comments.
