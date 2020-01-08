@@ -11,6 +11,7 @@ Yu Zheng, Lucien Ng, Donald Wong, ...
 
 
 ## Part 1-3
+These parts are for sharing resources.
 
 ## Part 4
 
