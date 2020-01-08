@@ -4,9 +4,9 @@ We recommend you to clone our project into sublime. For the first time, use ```g
 
 Please note: you need to update your local project ```git pull``` from github before modify it. Before push your modification to github,```git push ...```, please ensure everything is correct.
 
-Project Contributor:
+Project Contributor (time-based):
 
-Yu Zheng, Lucien Ng, Donald Wong, ...
+Yu Zheng, Lucien Ng, Donald Wong, Ke Zhang, ...
 
 
 
