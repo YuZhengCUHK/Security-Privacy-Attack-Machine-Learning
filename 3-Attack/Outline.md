@@ -16,12 +16,12 @@ Evasion Attacks (Adversarial Examples)
 Explaining and Harnessing Adversarial Examples
 Towards Evaluating the Robustness of Neural Networks
 Why Do Adversarial Attacks Transfer? Explaining Transferability of Evasion and Poisoning Attacks
-Defense against Poisoning Attacks
+Week 6 - Defense against Poisoning Attacks
 
 Certified Defenses for Data Poisoning Attacks
 Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels
 Robust Logistic Regression and Classification
-Advanced Adversarial Attacks
+Week 7 - Advanced Adversarial Attacks
 
 Understanding Black-box Predictions via Influence Functions
 Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent
